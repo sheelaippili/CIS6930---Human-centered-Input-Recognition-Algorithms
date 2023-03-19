@@ -1,5 +1,5 @@
 
-# Human-Centered Input Recognition Algorithms - Drawing on a Canvas
+# Human-Centered Input Recognition Algorithms - Drawing on a Canvas - project 1 Part 1
 
 ## Goals:
 - The goals of part 1 of project 1 are as following:
