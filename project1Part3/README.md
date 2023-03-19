@@ -1,7 +1,7 @@
 # Human-Centered Input Recognition Algorithms - Offline/Test Recognition - Project 1 Part 3
 
 ## Goals:
-- The goals of part 2 of project 1 are as following:
+- The goals of part 3 of project 1 are as following:
   - read in a gesture dataset from files to use for templates and candidates
   - connect to your existing $1 pre-processing and recognition methods
   - loop over the gesture dataset to systematically configure your recognizer and test it
