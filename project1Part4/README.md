@@ -9,9 +9,9 @@
 
 ## Steps to run the project:
 * Compile the project1Part4.java file\
-```javac project1Part3.java```
+```javac project1Part4.java```
 * Run the project1Part4.java class file\
-  ```java project1Part3```
+  ```java project1Part4```
 * Enter user number (1 - 6) in command prompt (users 1- 6)
   
 ## Goals explained in detail:
