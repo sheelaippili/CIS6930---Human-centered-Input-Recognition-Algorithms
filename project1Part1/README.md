@@ -7,6 +7,12 @@
   - instantiate a blank ‘canvas’ to the screen using GUI elements
   - listen for mouse or touch events on the canvas and draw them as the user makes them
   - allow the user to clear the canvas.
+
+## Steps to run the project:
+* Compile the project1Part1.java file\
+```javac project1Part1.java```
+* Run the project1Part1.java class file\
+  ```java project1Part1```
   
   
 ## Goals explained in detail:
