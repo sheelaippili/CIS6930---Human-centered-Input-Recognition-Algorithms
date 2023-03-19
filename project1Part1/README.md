@@ -28,4 +28,4 @@
    * I added a button called "clear" which when clicked calls the actionPerformed function linked to the button which clears the canvas.
    
 ## Demo
- ![ Alt text](project1Part1GIF. gif) / ! [](project1Part1GIF. gif)
+![project 1 part 1 demo](https://github.com/sheelaippili/CIS6930-Human-centered-Input-Recognition-Algorithms/blob/main/project1Part1/project1Part1GIF.gif)
