@@ -7,6 +7,12 @@
   - instantiate a blank ‘canvas’ to the screen using GUI elements
   - listen for mouse or touch events on the canvas and draw them as the user makes them
   - allow the user to clear the canvas.
+
+## Steps to run the project:
+* Compile the project1Part1.java file\
+```javac project1Part1.java```
+* Run the project1Part1.java class file\
+  ```java project1Part1```
   
   
 ## Goals explained in detail:
@@ -28,4 +34,4 @@
    * I added a button called "clear" which when clicked calls the actionPerformed function linked to the button which clears the canvas.
    
 ## Demo
- ![ Alt text](project1Part1GIF. gif) / ! [](project1Part1GIF. gif)
+![project 1 part 1 demo](https://github.com/sheelaippili/CIS6930-Human-centered-Input-Recognition-Algorithms/blob/main/project1Part1/project1Part1GIF.gif)
